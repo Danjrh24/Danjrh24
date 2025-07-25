@@ -39,8 +39,8 @@ Próximamente: Spring Boot, Express.js, PostgreSQL, TypeScript, React.js, MySQL.
 
 ## 📂 Algunos de mis proyectos destacados
 
-- 🎮 [Juego de Blackjack en JavaScript](https://github.com/tu-usuario/blackjack-js): Juego de cartas funcional, lógica pura y modularización.
-- ✅ [App de tareas (ToDo)](https://github.com/tu-usuario/todoapp-js): Aplicación de tareas con manejo de estado, componentes y LocalStorage.
+- 🎮 [Juego de Blackjack en JavaScript](https://github.com/Danjrh24/Blackjack-vite): Juego de cartas funcional, lógica pura y modularización.
+- ✅ [App de tareas (ToDo)](https://github.com/Danjrh24/TodoApp): Aplicación de tareas con manejo de estado, componentes y LocalStorage.
 
 > 🔗 Todos mis proyectos están organizados y documentados en mis repos públicos. Próximamente: portafolio web personal.
 
