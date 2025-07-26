@@ -3,7 +3,7 @@
 👋 ¡Bienvenido a mi perfil de GitHub!<br><br>
 🎓 Soy estudiante de **Ingeniería de Sistemas** en [INTEC](https://intec.edu.do), apasionado por el desarrollo de software y la arquitectura de sistemas.
 
-💻 Actualmente estoy formándome en el programa [Oracle Next Education (ONE)](https://www.aluracursos.com/programas/oracle-next-education) de **Alura LATAM**, complementando mi carrera con cursos prácticos en:
+💻 Actualmente estoy formándome en el programa [Oracle Next Education (ONE)](https://www.oracle.com/mx/education/oracle-next-education/) de **Alura LATAM**, complementando mi carrera con cursos prácticos en:
 - Fundamentos de programación
 - Desarrollo Frontend/Backend
 - Estructura de datos
